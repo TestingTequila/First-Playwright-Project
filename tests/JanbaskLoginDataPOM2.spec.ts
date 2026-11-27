@@ -35,4 +35,10 @@ test('To validate login feature with POM2', async ({ page }) => {
     //3. Assertion Wait
     //await expect(page).toHaveTitle(TestData.LOGIN_PAGE_TITLE, {timeout:10000});
 
+
+     //3. Assertion Wait [This code is redundant and written only to test some git feature]
+    //await expect(page).toHaveTitle(TestData.LOGIN_PAGE_TITLE, {timeout:10000});
+
+
+
 })
